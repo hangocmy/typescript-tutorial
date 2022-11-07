@@ -1,0 +1,22 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangocmy/typescript-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hangocmy/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/hangocmy/typescript-tutorial#readme",
+  "devDependencies": {
+    "typescipt": "^1.0.0"
+  }
+}
