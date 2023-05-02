@@ -1,6 +1,6 @@
 interface Dimension {
-  width: string;
-  height: string;
+    width: string;
+    height: string;
 }
 
 //let _imagedim: Dimension = {
@@ -19,8 +19,8 @@ interface Dimension {
 //}
 
 function getDimension(dim: Dimension): string {
-  let finaldim = dim.width + "-" + dim.height;
-  return finaldim;
+    let finaldim = dim.width + "-" + dim.height;
+    return finaldim;
 }
 
-getDimension({width:"300px", height:"250px"}); // will get "300px-250px"
+getDimension({ width: "300px", height: "250px" }); // will get "300px-250px"

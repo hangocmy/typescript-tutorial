@@ -19,10 +19,10 @@
 
 //Declare An Enum with a string value
 enum Directions {
-  North = "N",
-  South = "S",
-  East = "E",
-  West = "W"
+    North = "N",
+    South = "S",
+    East = "E",
+    West = "W"
 }
 
 console.log(Directions.North); // output is N
